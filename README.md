@@ -1,7 +1,7 @@
 # Weighted Laguerre Polynomial (WLP) の計算
 
 ## 使用法
-```c++:
+```cpp:
 #include "wlp.h"
 
 AndoLab::wlp(const int Order_P, const double time_t, double *WLP);
